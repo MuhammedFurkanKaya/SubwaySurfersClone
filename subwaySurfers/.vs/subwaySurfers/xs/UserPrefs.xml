@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F0FD8CBF-843C-DA51-691A-3659E7CF767B}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="65f95822-d548-4019-ae55-3e2993aa69ac" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/yonetici.cs">
+    <Files>
+      <File FileName="Assets/Scripts/cameraTakip.cs" Line="9" Column="22" />
+      <File FileName="Assets/Scripts/donme.cs" Line="19" Column="57" />
+      <File FileName="Assets/Scripts/araba.cs" Line="7" Column="24" />
+      <File FileName="Assets/Scripts/KarakterKontrol.cs" Line="118" Column="45" />
+      <File FileName="Assets/Scripts/yonetici.cs" Line="116" Column="55" />
+      <File FileName="Assets/Scripts/altin.cs" Line="9" Column="29" />
+      <File FileName="Assets/Scripts/kutukYokOl.cs" Line="22" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="subwaySurfers" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
